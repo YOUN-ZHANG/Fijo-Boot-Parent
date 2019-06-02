@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fijo-Boot-Parent.iml" filepath="$PROJECT_DIR$/Fijo-Boot-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simbest-boot-parent.iml" filepath="$PROJECT_DIR$/simbest-boot-parent.iml" />
     </modules>
   </component>
 </project>
