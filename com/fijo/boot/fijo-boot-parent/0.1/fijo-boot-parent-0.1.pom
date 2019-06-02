@@ -480,7 +480,7 @@
                             <include>**/*</include>
                         </includes>
                         <repositoryName>${project.artifactId}</repositoryName>
-                        <repositoryOwner>simbest</repositoryOwner>
+                        <repositoryOwner>YOUN-ZHANG</repositoryOwner>
                     </configuration>
                     <executions>
                         <execution>
